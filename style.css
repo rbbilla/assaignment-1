@@ -1,0 +1,66 @@
+h1 {
+    font-size: 50px;
+}
+
+.font-family { 
+    font-family: 'Famosa', sans-serif;
+}
+.orange-color {
+    color: orange;
+}
+.all-word {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(rgb(255, 0, 128) , rgb(255, 17, 0));
+    color: white;
+    border-radius: 5px;
+}
+.display-style {
+    display: flex;
+}
+ .half-width {
+     width: 50%;
+     padding: 5%;
+ }
+
+.half-width img {
+    width: 50%;
+    padding: 5%;
+}
+
+.table-fonts {
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+}
+
+.table-width {
+    width: 25%;
+    padding: 1%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+#icon-size {
+    width: 35%;
+}
+
+.table-color {
+    background-color: rgba(140, 209, 211, 0.171);
+    border-radius: 20px;
+}
+
+.table-color2 {
+    background-color: rgba(206, 122, 203, 0.171);
+    border-radius: 20px;
+}
+
+.table-color3 {
+    background-color: rgba(216, 187, 133, 0.171);
+    border-radius: 20px;
+}
+

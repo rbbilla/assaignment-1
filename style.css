@@ -2,6 +2,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 .font-family { 
     font-family: 'Famosa', sans-serif;
 }
@@ -10,6 +14,7 @@ h1 {
 }
 .all-word {
     font-family: 'Poppins', sans-serif;
+    font-weight: 700;
 
 }
 
@@ -29,8 +34,8 @@ h1 {
  }
 
 .half-width img {
-    width: 50%;
-    padding: 5%;
+    width: 70%;
+    padding: 2%;
 }
 
 .table-fonts {
@@ -40,9 +45,9 @@ h1 {
 
 .table-width {
     width: 25%;
-    padding: 1%;
-    margin-right: 5%;
-    margin-left: 5%;
+    padding: 3%;
+    margin-right: 1%;
+    margin-left: 1%;    
 }
 
 #icon-size {
@@ -64,3 +69,69 @@ h1 {
     border-radius: 20px;
 }
 
+.table-margin {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 150px;
+}
+
+.develop-limit-section {
+    width: 50%;
+}
+
+.develop-limit-section img {
+    width: 70%;
+}
+
+.develop-limit-margin {
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom: 150px;
+}
+.last-flex {
+    width: 50%;
+}
+ .last-flex img {
+     width: 70%;
+ }
+
+ .community-margin {
+    margin-right: 20%;
+    margin-left: 20%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 180px ;
+    background-position: right bottom ;
+    margin-bottom: 150px;
+ }
+
+ .app-sction-margin {
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom: 150px;
+ }
+ 
+.app-sction-width img{
+    width: 100%;
+    
+}
+
+.app-sction-width  {
+    width: 50%;
+    margin-left: 5%;
+
+}
+
+.apps-h1-text {
+    text-align: center;
+}
+
+footer {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 20px;;
+
+}
